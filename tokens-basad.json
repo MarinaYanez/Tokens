@@ -1,0 +1,42 @@
+{
+  "global": {
+    "Base": {
+      "green-100": {
+        "value": "#d2e5d5",
+        "type": "color"
+      },
+      "green-200": {
+        "value": "#caedd0",
+        "type": "color"
+      },
+      "green-300": {
+        "value": "#c3f4cb",
+        "type": "color"
+      },
+      "green-400": {
+        "value": "#bdfac7",
+        "type": "color"
+      },
+      "green-500": {
+        "value": "#b8ffc3",
+        "type": "color"
+      }
+    },
+    "Específicos": {
+      "color-background-btn-disable": {
+        "value": "{Base.green-100}",
+        "type": "color"
+      },
+      "color-background-btn-default": {
+        "value": "{Base.green-200}",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
